@@ -2,7 +2,7 @@
   "name": "stackblitz-starters-ycnm6w",
   "version": "0.0.0",
   "private": true,
-  "homepage": "https://mavagio.github.io/heliox-snapshot-generator",
+  "homepage": "https://mavagio.github.io/nft-snapshot-generator",
   "dependencies": {
     "@types/react": "18.2.46",
     "@types/react-dom": "18.2.18",
